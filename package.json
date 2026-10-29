@@ -1,0 +1,27 @@
+{
+  "name": "contract-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangamesh-Lingshetty/contract-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sangamesh-Lingshetty/contract-api/issues"
+  },
+  "homepage": "https://github.com/sangamesh-Lingshetty/contract-api#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "ethers": "^5.8.0",
+    "express": "^5.3.0"
+  }
+}
